@@ -24,7 +24,7 @@ Control q to save yt and control b to reset list of yt's saved.
 ```
 </p></details>
 <details><summary>Gaston's diep mod</summary>
-![Gaston's diep mod](https://www.google.com/s2/favicons?sz=64&domain=diep.io)
+<img alt="Gaston's diep mod" src="https://www.google.com/s2/favicons?sz=64&domain=diep.io">
 <p>
 
 
@@ -69,7 +69,7 @@ Made By Gaston#1799
 ```
 </p></details>
 <details><summary>gaston Userscript</summary>
-![gaston Userscript](https://www.google.com/s2/favicons?sz=64&domain=github.io)
+<img alt="gaston Userscript" src="https://www.google.com/s2/favicons?sz=64&domain=github.io">
 <p>
 
 
@@ -136,7 +136,7 @@ made with much love
 ```
 </p></details>
 <details><summary>Auto download</summary>
-![Auto download](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+<img alt="Auto download" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
 <p>
 
 
@@ -159,7 +159,7 @@ try to take over the world!
 ```
 </p></details>
 <details><summary>Poser</summary>
-![Poser](https://www.google.com/s2/favicons?sz=64&domain=greasyfork.org)
+<img alt="Poser" src="https://www.google.com/s2/favicons?sz=64&domain=greasyfork.org">
 <p>
 
 
@@ -182,7 +182,7 @@ try to take over the world!
 ```
 </p></details>
 <details><summary>New Userscript</summary>
-![New Userscript](https://www.google.com/s2/favicons?sz=64&domain=downvideo.quora-wiki.com)
+<img alt="New Userscript" src="https://www.google.com/s2/favicons?sz=64&domain=downvideo.quora-wiki.com">
 <p>
 
 
@@ -227,7 +227,7 @@ Allows user to see profile icons of people in dicord server much more clearly. T
 ```
 </p></details>
 <details><summary>AutoStuff diep</summary>
-![AutoStuff diep](https://www.google.com/s2/favicons?sz=64&domain=diep.io)
+<img alt="AutoStuff diep" src="https://www.google.com/s2/favicons?sz=64&domain=diep.io">
 <p>
 
 
@@ -250,7 +250,7 @@ https://diep.io/
 ```
 </p></details>
 <details><summary>MOOMOO.IO/KRUNKER/MOPE/ALLSITES/&MORE SUPER MOD! INSTA, ALL UPGRADES, AUTOHEAL, PRO CURSOR, +100 RES</summary>
-![MOOMOO.IO/KRUNKER/MOPE/ALLSITES/&MORE SUPER MOD! INSTA, ALL UPGRADES, AUTOHEAL, PRO CURSOR, +100 RES](http://www.jt-autospa.com/wp-content/uploads/images/jt_stock_280x230.jpg)
+<img alt="MOOMOO.IO/KRUNKER/MOPE/ALLSITES/&MORE SUPER MOD! INSTA, ALL UPGRADES, AUTOHEAL, PRO CURSOR, +100 RES" src="http://www.jt-autospa.com/wp-content/uploads/images/jt_stock_280x230.jpg">
 <p>
 
 
@@ -383,7 +383,7 @@ try to take over the world!
 ```
 </p></details>
 <details><summary>Script finder</summary>
-![Script finder](https://cdn.discordapp.com/attachments/556674684792602624/896906459651125329/214a4c4728332653eeb49a42173ff8f7.png)
+<img alt="Script finder" src="https://cdn.discordapp.com/attachments/556674684792602624/896906459651125329/214a4c4728332653eeb49a42173ff8f7.png">
 <p>
 
 
@@ -428,7 +428,7 @@ v3
 ```
 </p></details>
 <details><summary>Poser</summary>
-![Poser](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+<img alt="Poser" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
 <p>
 
 
@@ -451,7 +451,7 @@ try to take over the world!
 ```
 </p></details>
 <details><summary>New Userscript</summary>
-![New Userscript](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+<img alt="New Userscript" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
 <p>
 
 
@@ -474,7 +474,7 @@ try to take over the world!
 ```
 </p></details>
 <details><summary>Github Userscript</summary>
-![Github Userscript](https://www.google.com/s2/favicons?sz=64&domain=github.io)
+<img alt="Github Userscript" src="https://www.google.com/s2/favicons?sz=64&domain=github.io">
 <p>
 
 
