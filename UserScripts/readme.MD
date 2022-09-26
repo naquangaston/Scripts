@@ -1,7 +1,7 @@
 #This folder is in WIP for braking donw tampermonkey exports
 
 
-# <details><summary>Youtube mp3 and mp4 download working 2020-2021</summary>
+<details><summary>Youtube mp3 and mp4 download working 2020-2021</summary>
 <p>
 
 
@@ -23,7 +23,7 @@ Control q to save yt and control b to reset list of yt's saved.
 *://www.youtube.com/* , *://www.factsherald.com/* , *://www.y2mate.com/* , *://www.gearedtoyou.com/* , *://lp.powerapp.download/* , *://lp.searchmulty.com/* , https://www.y2mate.com/en19 , https://www.y2mate.com/en49 , *://*.lp.powerapp.download/* , *://*.fiefionfortes.casa/* , *://*.inservinea.com/* , *://*.protection.byguardio.com/* , *://*.tortsv.gq/* , *://*.takefr.cf/* , *://*.toomiplay.com/* , *://*.deej.almeusciu.site/* , *://*.upgradecircle.findgreatsourceforupgrade.info/* , *://*.afew.zoyufo.pw/* , *://*.upgradebestmaintenancetheclicks.icu/* , *://*.s3.amazonaws.com/* , *://*.updatemostrenewedapplication.best/* , *://*.get.anyconvertersearch.com/* , *://*.digitaltrends.com/* , *://*.wildbearads.com/*/ , *://install.globalpdfconvertersearch.com"/* , *://ncs.io/*
 ```
 </p></details>
-# <details><summary>Gaston's diep mod</summary>
+<details><summary>Gaston's diep mod</summary>
 ![Gaston's diep mod](https://www.google.com/s2/favicons?sz=64&domain=diep.io)
 <p>
 
@@ -46,7 +46,7 @@ You
 https://diep.io/ , https://jscompress.com/ , *://greasyfork.org/*
 ```
 </p></details>
-# <details><summary>Project NOZO</summary>
+<details><summary>Project NOZO</summary>
 <p>
 
 
@@ -68,7 +68,7 @@ Made By Gaston#1799
 *://moomoo.io/* , *://dev.moomoo.io/* , *://sandbox.moomoo.io/* , *://tjmoomoo.ml/*
 ```
 </p></details>
-# <details><summary>gaston Userscript</summary>
+<details><summary>gaston Userscript</summary>
 ![gaston Userscript](https://www.google.com/s2/favicons?sz=64&domain=github.io)
 <p>
 
@@ -91,7 +91,7 @@ try to take over the world!
 https://naquangaston.github.io/HostedFiles/ , /https?:\/{2}static\d\.e(9||6)2(6||1)\.net\/data/*
 ```
 </p></details>
-# <details><summary>DiepBox by Cazka</summary>
+<details><summary>DiepBox by Cazka</summary>
 <p>
 
 
@@ -113,7 +113,7 @@ made with much love
 *://diep.io/*
 ```
 </p></details>
-# <details><summary>DiepBox by Cazka</summary>
+<details><summary>DiepBox by Cazka</summary>
 <p>
 
 
@@ -135,7 +135,7 @@ made with much love
 *://diep.io/*
 ```
 </p></details>
-# <details><summary>Auto download</summary>
+<details><summary>Auto download</summary>
 ![Auto download](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 <p>
 
@@ -158,7 +158,7 @@ try to take over the world!
 *://www.youtube.com/*
 ```
 </p></details>
-# <details><summary>Poser</summary>
+<details><summary>Poser</summary>
 ![Poser](https://www.google.com/s2/favicons?sz=64&domain=greasyfork.org)
 <p>
 
@@ -181,7 +181,7 @@ try to take over the world!
 *://greasyfork.org/*
 ```
 </p></details>
-# <details><summary>New Userscript</summary>
+<details><summary>New Userscript</summary>
 ![New Userscript](https://www.google.com/s2/favicons?sz=64&domain=downvideo.quora-wiki.com)
 <p>
 
@@ -204,7 +204,7 @@ try to take over the world!
 *://downvideo.quora-wiki.com/* , *://converter.quora-wiki.com/* , /https?:\/{2}(r\d+\-+)([\-\w]+)\.googlevideo\.com\/videoplayback/
 ```
 </p></details>
-# <details><summary>.Discord profile ripper</summary>
+<details><summary>.Discord profile ripper</summary>
 <p>
 
 
@@ -226,7 +226,7 @@ Allows user to see profile icons of people in dicord server much more clearly. T
 *://discord.com/* , *.greasyfork.org/*
 ```
 </p></details>
-# <details><summary>AutoStuff diep</summary>
+<details><summary>AutoStuff diep</summary>
 ![AutoStuff diep](https://www.google.com/s2/favicons?sz=64&domain=diep.io)
 <p>
 
@@ -249,7 +249,7 @@ You
 https://diep.io/
 ```
 </p></details>
-# <details><summary>MOOMOO.IO/KRUNKER/MOPE/ALLSITES/&MORE SUPER MOD! INSTA, ALL UPGRADES, AUTOHEAL, PRO CURSOR, +100 RES</summary>
+<details><summary>MOOMOO.IO/KRUNKER/MOPE/ALLSITES/&MORE SUPER MOD! INSTA, ALL UPGRADES, AUTOHEAL, PRO CURSOR, +100 RES</summary>
 ![MOOMOO.IO/KRUNKER/MOPE/ALLSITES/&MORE SUPER MOD! INSTA, ALL UPGRADES, AUTOHEAL, PRO CURSOR, +100 RES](http://www.jt-autospa.com/wp-content/uploads/images/jt_stock_280x230.jpg)
 <p>
 
@@ -272,7 +272,7 @@ https://diep.io/
 *://*.moomoo.io/* , *://moomoo.io/* , *://sandbox.moomoo.io/* , *://dev.moomoo.io/* , *://mope.io/* , *://beta.mope.io/* , *://m0pe.io/* , *://learninganimals.club/* , *://beta.tailbite.me/* , *://beta.zooeducation.space/* , *://tailbite.me/* , *://animalfun.club/* , *://zooeducation.space/* , *://experimental.mope.io/* , *://krunker.io/* , *://diep.io/* , *://arras.io/ , *://arras.netlify.app/ , *://woomy-arras.io/ , *://*.io/*
 ```
 </p></details>
-# <details><summary>MooMoo.io Bots (browser)</summary>
+<details><summary>MooMoo.io Bots (browser)</summary>
 <p>
 
 
@@ -294,7 +294,7 @@ Press ESC to open the menu
 *://sandbox.moomoo.io/* , *://moomoo.io/* , *://dev.moomoo.io/*
 ```
 </p></details>
-# <details><summary>Diep.io Clones (Eng)</summary>
+<details><summary>Diep.io Clones (Eng)</summary>
 <p>
 
 
@@ -316,7 +316,7 @@ Allows you to command more than one tank
 http://*.io/* , https://*.io/*
 ```
 </p></details>
-# <details><summary>2020-2021 Music player for io games & Dsicrdo profile ripper& youtube download free</summary>
+<details><summary>2020-2021 Music player for io games & Dsicrdo profile ripper& youtube download free</summary>
 <p>
 
 
@@ -338,7 +338,7 @@ Check change log
 *://arras.io/* , *://*.moomoo.io/* , *://moomoo.io/* , *://agar.io/* , *://sandbox.moomoo.io/* , *://splix.io/* , *://paper-io.com/* , *://moomoo.io/* , *://starblast.io/* , *://narwhale.io/* , *://surviv.io/* , *://www.youtube.com/* , *://www.factsherald.com/* , *://www.y2mate.com/* , *://www.gearedtoyou.com/* , *://lp.powerapp.download/* , *://lp.searchmulty.com/* , https://www.y2mate.com/en19 , https://www.y2mate.com/en49 , *://*.lp.powerapp.download/* , *://*.fiefionfortes.casa/* , *://*.inservinea.com/* , *://*.protection.byguardio.com/* , *://*.tortsv.gq/* , *://*.takefr.cf/* , *://*.toomiplay.com/* , *://*.deej.almeusciu.site/* , *://*.upgradecircle.findgreatsourceforupgrade.info/* , *://*.afew.zoyufo.pw/* , *://*.upgradebestmaintenancetheclicks.icu/* , *://*.s3.amazonaws.com/* , *://*.updatemostrenewedapplication.best/* , *://*.get.anyconvertersearch.com/* , *://*.digitaltrends.com/* , *://*.wildbearads.com/*/ , *://install.globalpdfconvertersearch.com/* , *://ncs.io/* , *://*/* , *://discord.com/* , *.greasyfork.org/*
 ```
 </p></details>
-# <details><summary>smth random</summary>
+<details><summary>smth random</summary>
 <p>
 
 
@@ -360,7 +360,7 @@ Autoclose the zoom page when zoom in launched
 *://zoom.us/* , *://*/* , https://zoom.us/
 ```
 </p></details>
-# <details><summary>Ba7 Beta</summary>
+<details><summary>Ba7 Beta</summary>
 <p>
 
 
@@ -382,7 +382,7 @@ try to take over the world!
 *://moomoo.io/* , *://dev.moomoo.io/* , *://sandbox.moomoo.io/*
 ```
 </p></details>
-# <details><summary>Script finder</summary>
+<details><summary>Script finder</summary>
 ![Script finder](https://cdn.discordapp.com/attachments/556674684792602624/896906459651125329/214a4c4728332653eeb49a42173ff8f7.png)
 <p>
 
@@ -405,7 +405,7 @@ press ctrl+shift+q to find scripts made for ther current site
 *://*/*
 ```
 </p></details>
-# <details><summary>big ppro</summary>
+<details><summary>big ppro</summary>
 <p>
 
 
@@ -427,7 +427,7 @@ v3
 *://sandbox.moomoo.io/* , *://moomoo.io/*
 ```
 </p></details>
-# <details><summary>Poser</summary>
+<details><summary>Poser</summary>
 ![Poser](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 <p>
 
@@ -450,7 +450,7 @@ try to take over the world!
 *://greasyfork.org/*
 ```
 </p></details>
-# <details><summary>New Userscript</summary>
+<details><summary>New Userscript</summary>
 ![New Userscript](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 <p>
 
@@ -473,7 +473,7 @@ try to take over the world!
 // @match        *://greasyfork.org/*
 ```
 </p></details>
-# <details><summary>Github Userscript</summary>
+<details><summary>Github Userscript</summary>
 ![Github Userscript](https://www.google.com/s2/favicons?sz=64&domain=github.io)
 <p>
 
@@ -496,7 +496,7 @@ try to take over the world!
 *://e926.net/*
 ```
 </p></details>
-# <details><summary>Diep Packet Logger</summary>
+<details><summary>Diep Packet Logger</summary>
 <p>
 
 
@@ -518,7 +518,7 @@ Tool for logging diep.io websocket packets and various other things.
 *://diep.io/
 ```
 </p></details>
-# <details><summary>Diep Packet & Memory Analyzer</summary>
+<details><summary>Diep Packet & Memory Analyzer</summary>
 <p>
 
 
