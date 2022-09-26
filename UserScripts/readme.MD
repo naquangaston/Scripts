@@ -5,13 +5,14 @@
 <p>
 
 
-### Author:You
-### Version:0.37
+### Author:```tYou```
+### Version:```t0.37```
 #### Desc:
 
 ```t
 Control q to save yt and control b to reset list of yt's saved.
    ```
+   Install(./Youtube%20mp3%20and%20mp4%20download%20working%202020-2021)
 
 **Ignore**
 ```
@@ -23,13 +24,14 @@ Control q to save yt and control b to reset list of yt's saved.
 <p>
 
 
-### Author:You
-### Version:0.3
+### Author:```tYou```
+### Version:```t0.3```
 #### Desc:
 
 ```t
 [dark theme][auto build][music player][works with other mods][FPS counter]
    ```
+   Install(./Gaston's%20diep%20mod)
 
 **Ignore**
 ```
@@ -40,13 +42,14 @@ https://diep.io/ , https://jscompress.com/ , *://greasyfork.org/*
 <p>
 
 
-### Author:Gaston#1799
-### Version:1.2
+### Author:```tGaston#1799```
+### Version:```t1.2```
 #### Desc:
 
 ```t
 Made By Gaston#1799
    ```
+   Install(./Project%20NOZO)
 
 **Ignore**
 ```
@@ -58,13 +61,14 @@ Made By Gaston#1799
 <p>
 
 
-### Author:You
-### Version:0.1
+### Author:```tYou```
+### Version:```t0.1```
 #### Desc:
 
 ```t
 try to take over the world!
    ```
+   Install(./gaston%20Userscript)
 
 **Ignore**
 ```
@@ -75,13 +79,14 @@ https://naquangaston.github.io/HostedFiles/ , /https?:\/{2}static\d\.e(9||6)2(6|
 <p>
 
 
-### Author:Cazka#1820
-### Version:0.1.29
+### Author:```tCazka#1820```
+### Version:```t0.1.29```
 #### Desc:
 
 ```t
 made with much love
    ```
+   Install(./DiepBox%20by%20Cazka)
 
 **Ignore**
 ```
@@ -92,13 +97,14 @@ made with much love
 <p>
 
 
-### Author:Cazka#1820
-### Version:0.1.29
+### Author:```tCazka#1820```
+### Version:```t0.1.29```
 #### Desc:
 
 ```t
 made with much love
    ```
+   Install(./DiepBox%20by%20Cazka)
 
 **Ignore**
 ```
@@ -110,13 +116,14 @@ made with much love
 <p>
 
 
-### Author:You
-### Version:0.1
+### Author:```tYou```
+### Version:```t0.1```
 #### Desc:
 
 ```t
 try to take over the world!
    ```
+   Install(./Auto%20download)
 
 **Ignore**
 ```
@@ -128,13 +135,14 @@ try to take over the world!
 <p>
 
 
-### Author:You
-### Version:0.1
+### Author:```tYou```
+### Version:```t0.1```
 #### Desc:
 
 ```t
 try to take over the world!
    ```
+   Install(./Poser)
 
 **Ignore**
 ```
@@ -146,13 +154,14 @@ try to take over the world!
 <p>
 
 
-### Author:You
-### Version:0.1
+### Author:```tYou```
+### Version:```t0.1```
 #### Desc:
 
 ```t
 try to take over the world!
    ```
+   Install(./New%20Userscript)
 
 **Ignore**
 ```
@@ -163,13 +172,14 @@ try to take over the world!
 <p>
 
 
-### Author:You
-### Version:0.19
+### Author:```tYou```
+### Version:```t0.19```
 #### Desc:
 
 ```t
 Allows user to see profile icons of people in dicord server much more clearly. This mod will also resend failed attachments. Only work on the web version of discord
    ```
+   Install(./.Discord%20profile%20ripper)
 
 **Ignore**
 ```
@@ -181,13 +191,14 @@ Allows user to see profile icons of people in dicord server much more clearly. T
 <p>
 
 
-### Author:You
-### Version:0.4
+### Author:```tYou```
+### Version:```t0.4```
 #### Desc:
 
 ```t
 [dark theme][auto build][music player][works with other mods][FPS counter]
    ```
+   Install(./AutoStuff%20diep)
 
 **Ignore**
 ```
@@ -199,13 +210,14 @@ https://diep.io/
 <p>
 
 
-### Author:
-### Version:10.9.6
+### Author:```t```
+### Version:```t10.9.6```
 #### Desc:
 
 ```t
 (WORKING 2021) SUPER MOOMOO/KRUNKER MOD! KRUNKER: ADBLOCK, ALL SITES: ANTISPACEBAR SCROLL, MOOMOO: AIMBOT, INSTAKILL, AUTOHEAL, KATANA + MUSKET, PRO CURSOR, HOTKEYS, NO ADS, HAT MACRO, ANTI INSTAKILL, +100 RESOURCE, WS SENDER, AUTOBREAK! MOPE.IO AUTO DIVE, AUTO RUN, ADBLOCK! DIEP.IO: MULTIBOX, AFK MODE! ARRAS.IO: FOV HACKS!
    ```
+   Install(./MOOMOO.IO%2FKRUNKER%2FMOPE%2FALLSITES%2F%26MORE%20SUPER%20MOD!%20INSTA%2C%20ALL%20UPGRADES%2C%20AUTOHEAL%2C%20PRO%20CURSOR%2C%20%2B100%20RES)
 
 **Ignore**
 ```
@@ -216,13 +228,14 @@ https://diep.io/
 <p>
 
 
-### Author:Stew#4055
-### Version:15.126
+### Author:```tStew#4055```
+### Version:```t15.126```
 #### Desc:
 
 ```t
 Press ESC to open the menu
    ```
+   Install(./MooMoo.io%20Bots%20(browser))
 
 **Ignore**
 ```
@@ -233,13 +246,14 @@ Press ESC to open the menu
 <p>
 
 
-### Author:https://greasyfork.org/ru/users/393261-ÑÐµÐ»ÐºÐ¸Ñ
-### Version:Full - 1
+### Author:```thttps://greasyfork.org/ru/users/393261-ÑÐµÐ»ÐºÐ¸Ñ```
+### Version:```tFull - 1```
 #### Desc:
 
 ```t
 Allows you to command more than one tank
    ```
+   Install(./Diep.io%20Clones%20(Eng))
 
 **Ignore**
 ```
@@ -250,13 +264,14 @@ http://*.io/* , https://*.io/*
 <p>
 
 
-### Author:You
-### Version:0.46
+### Author:```tYou```
+### Version:```t0.46```
 #### Desc:
 
 ```t
 Check change log
    ```
+   Install(./2020-2021%20Music%20player%20for%20io%20games%20%26%20Dsicrdo%20profile%20ripper%26%20youtube%20download%20free)
 
 **Ignore**
 ```
@@ -267,13 +282,14 @@ Check change log
 <p>
 
 
-### Author:You
-### Version:0.1
+### Author:```tYou```
+### Version:```t0.1```
 #### Desc:
 
 ```t
 Autoclose the zoom page when zoom in launched
    ```
+   Install(./smth%20random)
 
 **Ignore**
 ```
@@ -284,13 +300,14 @@ Autoclose the zoom page when zoom in launched
 <p>
 
 
-### Author:(M.V.P) Terminator#6108
-### Version:v0.50.1
+### Author:```t(M.V.P) Terminator#6108```
+### Version:```tv0.50.1```
 #### Desc:
 
 ```t
 try to take over the world!
    ```
+   Install(./Ba7%20Beta)
 
 **Ignore**
 ```
@@ -302,13 +319,14 @@ try to take over the world!
 <p>
 
 
-### Author:You
-### Version:1
+### Author:```tYou```
+### Version:```t1```
 #### Desc:
 
 ```t
 press ctrl+shift+q to find scripts made for ther current site
    ```
+   Install(./Script%20finder)
 
 **Ignore**
 ```
@@ -319,13 +337,14 @@ press ctrl+shift+q to find scripts made for ther current site
 <p>
 
 
-### Author:LOL
-### Version:v3
+### Author:```tLOL```
+### Version:```tv3```
 #### Desc:
 
 ```t
 -
    ```
+   Install(./big%20ppro)
 
 **Ignore**
 ```
@@ -337,13 +356,14 @@ press ctrl+shift+q to find scripts made for ther current site
 <p>
 
 
-### Author:You
-### Version:0.1
+### Author:```tYou```
+### Version:```t0.1```
 #### Desc:
 
 ```t
 try to take over the world!
    ```
+   Install(./Poser)
 
 **Ignore**
 ```
@@ -355,13 +375,14 @@ try to take over the world!
 <p>
 
 
-### Author:You
-### Version:0.1
+### Author:```tYou```
+### Version:```t0.1```
 #### Desc:
 
 ```t
 try to take over the world!
    ```
+   Install(./New%20Userscript)
 
 **Ignore**
 ```
@@ -373,13 +394,14 @@ try to take over the world!
 <p>
 
 
-### Author:You
-### Version:0.1
+### Author:```tYou```
+### Version:```t0.1```
 #### Desc:
 
 ```t
 try to take over the world!
    ```
+   Install(./Github%20Userscript)
 
 **Ignore**
 ```
@@ -390,13 +412,14 @@ try to take over the world!
 <p>
 
 
-### Author:CX
-### Version:0.1
+### Author:```tCX```
+### Version:```t0.1```
 #### Desc:
 
 ```t
 Tool for logging diep.io websocket packets and various other things.
    ```
+   Install(./Diep%20Packet%20Logger)
 
 **Ignore**
 ```
@@ -407,13 +430,14 @@ Tool for logging diep.io websocket packets and various other things.
 <p>
 
 
-### Author:CX
-### Version:0.3
+### Author:```tCX```
+### Version:```t0.3```
 #### Desc:
 
 ```t
 A combination of WireShark and Cheat Engine but for WebSockets and WebAssembly memory segments
    ```
+   Install(./Diep%20Packet%20%26%20Memory%20Analyzer)
 
 **Ignore**
 ```
