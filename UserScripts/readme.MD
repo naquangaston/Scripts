@@ -1,4 +1,4 @@
-<a href='./.Discord%20profile%20ripper%20.user.js'></a>
+<a href='./.Discord%20profile%20ripper%20.user.js'>dsk</a>
 #This folder is in WIP for braking donw tampermonkey exports
 
 
