@@ -5,9 +5,7 @@
 <p>
 
 
-### Author:```
-You
-```
+### Author:```You```
 ### Version:```
 0.37
 ```
