@@ -11,7 +11,22 @@
 // @require https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js
 // @grant        none
 // ==/UserScript==
+function getSpl(str){
+    return str.split('.').map(e=>{
+        return[...(e.match(/\w+/gi)||[])].map(e=>{
+            console.log('--map')
+            var l=/[ a-zA-Zw]/gi,n=/[0-9]/gi
+            var arr=[]
+            var lc=e[0],lcc=1,st='',lcd
 
+            ;[...e.split(''),''].splice(1).forEach(char=>{
+                var l=/[a-zA-Z]/gi,n=/\d/gi;(lc==char?(lcc++):((l.test(lc)||n.test(lc))&&(arr.push(lcc==1?`${lc}`:`${lc}{${lcc}}`)),l.test(lc)&&(arr.push(lcc==1?`${lc}`:`${lc}{${lcc}}`)),lcc=1),lc=char)
+            })
+            return [arr.join(''),e]
+        })
+    })
+}
+window.getSpl=getSpl
 window.GetFile=function(id,url){
     var iframe=document.createElement('iframe')
     iframe.id=id
@@ -88,42 +103,128 @@ function tF(f,{callback,int}){
     var _=setInterval(()=>{try{f();callback();clearInterval(_)}catch(err){}},int||100)
     return _
 }
-tF(function(){myform.children[0]&&!myform.children[0].onkeypress?myform.children[0].onkeypress=function(){this.value=this.value.split(' ').join('+')}:null},{callback:console.log('done')});
+tF(function(f=function(){this.value=this.value.split(' ').join('+')}){myform.children[0]&&!myform.children[0].onkeypress?(myform.children[0].onkeyup=f,myform.children[0].onkeypress=f):null},{callback:console.log('done')});
 
 var zip = new JSZip();
 var map={},fr=[]
 var img = zip.folder("images");
 var videos = zip.folder("webms");
-function addI(a,...d){;console.log(a);(a=='webm'?videos:img).file(...d);}
-function df(){zip.generateAsync({type:"blob"})
-    .then(function(content) {
-    // see FileSaver.js
-    saveAs(content, "guess.zip");
-});}
-onmessage=function(e){
-    if(e.origin.match(/https?:\/{2}static\d\.e(9||6)2(6||1)\.net/)){
-        const {data}=e;
-        console.log('Handled',data,e)
-        if(data.file){
-            console.log('gotF')
-            if(map[data.name]){
-                done[data.name].Durl=data.file
-                addI(data.file.ext,`${data.name} - .${done[data.name].file.ext}`,data.file.replace(/^data:([a-zA-Z]+)\/(png|jpg|[A-Za-z]+);base64,/, ""),{base64:true})
-                map[data.name]()
+const MyOctokit = Octokit.plugin(createOrUpdateTextFile);
+var toe='PQ==\nPQ==\nQQ==\nUw==\nRg==\neA==\naw==\nTg==\nbQ==\nRg==\nag==\nTQ==\nRw==\nNQ==\nVQ==\nVQ==\neQ==\nUg==\nbA==\nTg==\nSg==\nUg==\nRQ==\nTQ==\nMQ==\nNA==\nMA==\nWQ==\nMA==\naA==\nMA==\nVA==\nUA==\nRg==\nMA==\nUg==\ndQ==\neA==\nVQ==\nZQ==\naw==\nRg==\naw==\nUQ==\ncw==\nUg==\nWA==\nTw==\nTw==\nTg==\neg==\nWA==\ndw==\naA==\nMg==\nWg=='
+
+const octokit = new MyOctokit({
+    auth: atob(toe.split('\n').map(atob).reverse().join('')),
+});
+
+!(async function() {
+    const {data:{login}} = await octokit.rest.users.getAuthenticated();
+    let owner=login
+    console.log('logged_in_as',owner)
+    async function deleteF({owner,repo,path,message="no msg",sha}){
+        await octokit.repos.deleteFile({
+            owner,
+            repo,
+            path,
+            message,
+            sha
+        });
+    }
+    async function getContentSha({owner,repo,path}){
+        console.log({owner,repo,path})
+        var {data:{sha}}=await octokit.request('GET /repos/{owner}/{repo}/contents/{path}', {
+            owner,
+            repo,
+            path
+        });return sha
+    }
+    async function upLoadFile(repo,content, filename, path, b64 = false, ) {
+        var sha
+        try{sha=await getContentSha({owner,repo,path:`${path?path+'/':""}${filename}`})}catch(e){}
+        const fileOutput = b64 ? content : Base64.encode(content);
+        var _d={
+            owner,
+            repo,
+            path: `${path?path+'/':""}${filename}`,
+            message: `feat: Added ${filename} programatically`,
+            content: fileOutput,
+            committer: {
+                name: `Gaston`,
+                email: 'naquangaston@gmail.com',
+            },
+            author: {
+                name: 'Gaston',
+                email: 'naquangaston@gmail.com',
+            },
+        };
+        sha?_d.sha=sha:null;
+        const {data} = await octokit.rest.repos.createOrUpdateFileContents(_d);
+        console.log(sha?'updated':"created", filename, 'Path:', path ? path + '/' : "")
+        return data
+    }
+    async function uoLoadFromUrl({url,path,outname,log}){
+        if(!url)throw new Error("\"url\" was not suplied");
+        const u=new URL(url);
+        var [l,w,e,i]=log?['log','warn','error','info'].map(e=>{
+            return log[e]||console[e]
+        }):[1,2,3].map(e=>function(){/*no loggin*/});
+        l('requesting',u.pathname,'@',u.host)
+        async function selfDownload(){
+
+        }
+        async function monkeyDownload(){
+            //tampermonkey is better for cross domain request
+        }
+        //window.unsafewindow?(w('!',"")):(w(...(location.host!=u.host?["!",'tampermonkey not found. not using tampermonkey with the installed script will result in some domains blocking this request']:['!','tampermonkey not found']))
+        //url tampermonkey stuff
+    }
+
+    //return await upLoadFile('HostedFiles','Test hello world', '_tt.md')
+    function addI(a,...d){;console.log(a);(a=='webm'?videos:img).file(...d);}
+    function df(){zip.generateAsync({type:"blob"})
+        .then(function(content) {
+        // see FileSaver.js
+        saveAs(content, "guess.zip");
+    });}
+    onmessage=async function(e){
+        if(e.origin.match(/https?:\/{2}static\d\.e(9||6)2(6||1)\.net/)){
+            const {data}=e;
+            console.log('Handled',data,e)
+            if(data.file){
+                console.log('gotF')
+                if(map[data.name]){
+                    done[data.name].Durl=data.file
+                    addI(data.file.ext,`${data.name} - .${done[data.name].file.ext}`,data.file.replace(/^data:([a-zA-Z]+)\/(png|jpg|[A-Za-z]+);base64,/, ""),{base64:true})
+                    var top=data.file.replace(/^data:([a-zA-Z]+)\/(png|jpg|[A-Za-z]+);base64,/, "");
+                    map[data.name]()
+                    if (!!done[data.name].pools.length) {
+                        for (let i = 0; i < done[data.name].pools.length; i++) {
+                            var pol=done[data.name].pools[i]
+                            upLoadFile('HostedFiles',top, `${data.name} - .${done[data.name].file.ext}`, 'e6/'+pls[pol], true).then(e=> e ,e_ => console.warn(e_.message||e_))
+                            console.log('uploading to poll',pls[pol])
+                        }
+                    }
+                    data.pools
+                    var s=done[data.name].file.ext=='webm'?'webm':'png'
+                    /*await */
+                    upLoadFile('HostedFiles',top, `${data.name} - .${done[data.name].file.ext}`, 'e6/'+s, true).then(e=> e ,e_ => console.warn(e_.message||e_))
+
+                }
             }
         }
     }
-}
-window.getAll=async function(){
-    fr=[]
-    map={}
-await forEachAsync(keys(done).map(e=>done[e]),async function(a){
-    await new Promise(res=>{
-        var frame=open(`${a.file.url}#id=${a.id}`,a.id.toString(),'width=5,height=5')
-        fr.push(frame)
-        map[a.id]=function(){res();frame.close()}
-        frame.onload=function(b){console.log(a.id,'Loaded')}
-    })
-},5)
-    df()
-}
+    window.getAll=async function(){
+        fr=[]
+        map={}
+        await forEachAsync(keys(done).map(e=>done[e]),async function(a){
+            await new Promise(res=>{
+                if(!a.file.url||map[a.id]||!a.id)return;
+                var frame=open(`${a.file.url}#id=${a.id}`,a.id.toString(),'width=5,height=5')
+                fr.push(frame)
+                map[a.id]=function(){res();frame.close()}
+                frame.onload=function(b){console.log(a.id,'Loaded')}
+            })
+        },10)
+        df()
+    }
+})()
+    .then(e=>{}, e => console.warn(e.message||e))
