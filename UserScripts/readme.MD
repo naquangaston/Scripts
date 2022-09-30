@@ -5,13 +5,9 @@
 <p>
 
 
-### Author:```\nYou```
-### Version:```
-0.37
-```
-#### Desc:```
-Control q to save yt and control b to reset list of yt's saved.
-```
+### Author:```You```
+### Version:```0.37```
+#### Desc:```Control q to save yt and control b to reset list of yt's saved.```
 
    <a href="./Youtube%20mp3%20and%20mp4%20download%20working%202020-2021">Install</a>
 
@@ -25,15 +21,9 @@ Control q to save yt and control b to reset list of yt's saved.
 <p>
 
 
-### Author:```
-You
-```
-### Version:```
-0.3
-```
-#### Desc:```
-[dark theme][auto build][music player][works with other mods][FPS counter]
-```
+### Author:```You```
+### Version:```0.3```
+#### Desc:```[dark theme][auto build][music player][works with other mods][FPS counter]```
 
    <a href="./Gaston's%20diep%20mod">Install</a>
 
@@ -46,15 +36,9 @@ https://diep.io/ , https://jscompress.com/ , *://greasyfork.org/*
 <p>
 
 
-### Author:```
-Gaston#1799
-```
-### Version:```
-1.2
-```
-#### Desc:```
-Made By Gaston#1799
-```
+### Author:```Gaston#1799```
+### Version:```1.2```
+#### Desc:```Made By Gaston#1799```
 
    <a href="./Project%20NOZO">Install</a>
 
@@ -68,15 +52,9 @@ Made By Gaston#1799
 <p>
 
 
-### Author:```
-You
-```
-### Version:```
-0.1
-```
-#### Desc:```
-try to take over the world!
-```
+### Author:```You```
+### Version:```0.1```
+#### Desc:```try to take over the world!```
 
    <a href="./gaston%20Userscript">Install</a>
 
@@ -89,15 +67,9 @@ https://naquangaston.github.io/HostedFiles/ , /https?:\/{2}static\d\.e(9||6)2(6|
 <p>
 
 
-### Author:```
-Cazka#1820
-```
-### Version:```
-0.1.29
-```
-#### Desc:```
-made with much love
-```
+### Author:```Cazka#1820```
+### Version:```0.1.29```
+#### Desc:```made with much love```
 
    <a href="./DiepBox%20by%20Cazka">Install</a>
 
@@ -110,15 +82,9 @@ made with much love
 <p>
 
 
-### Author:```
-Cazka#1820
-```
-### Version:```
-0.1.29
-```
-#### Desc:```
-made with much love
-```
+### Author:```Cazka#1820```
+### Version:```0.1.29```
+#### Desc:```made with much love```
 
    <a href="./DiepBox%20by%20Cazka">Install</a>
 
@@ -132,15 +98,9 @@ made with much love
 <p>
 
 
-### Author:```
-You
-```
-### Version:```
-0.1
-```
-#### Desc:```
-try to take over the world!
-```
+### Author:```You```
+### Version:```0.1```
+#### Desc:```try to take over the world!```
 
    <a href="./Auto%20download">Install</a>
 
@@ -154,15 +114,9 @@ try to take over the world!
 <p>
 
 
-### Author:```
-You
-```
-### Version:```
-0.1
-```
-#### Desc:```
-try to take over the world!
-```
+### Author:```You```
+### Version:```0.1```
+#### Desc:```try to take over the world!```
 
    <a href="./Poser">Install</a>
 
@@ -176,15 +130,9 @@ try to take over the world!
 <p>
 
 
-### Author:```
-You
-```
-### Version:```
-0.1
-```
-#### Desc:```
-try to take over the world!
-```
+### Author:```You```
+### Version:```0.1```
+#### Desc:```try to take over the world!```
 
    <a href="./New%20Userscript">Install</a>
 
@@ -197,15 +145,9 @@ try to take over the world!
 <p>
 
 
-### Author:```
-You
-```
-### Version:```
-0.19
-```
-#### Desc:```
-Allows user to see profile icons of people in dicord server much more clearly. This mod will also resend failed attachments. Only work on the web version of discord
-```
+### Author:```You```
+### Version:```0.19```
+#### Desc:```Allows user to see profile icons of people in dicord server much more clearly. This mod will also resend failed attachments. Only work on the web version of discord```
 
    <a href="./.Discord%20profile%20ripper">Install</a>
 
@@ -219,15 +161,9 @@ Allows user to see profile icons of people in dicord server much more clearly. T
 <p>
 
 
-### Author:```
-You
-```
-### Version:```
-0.4
-```
-#### Desc:```
-[dark theme][auto build][music player][works with other mods][FPS counter]
-```
+### Author:```You```
+### Version:```0.4```
+#### Desc:```[dark theme][auto build][music player][works with other mods][FPS counter]```
 
    <a href="./AutoStuff%20diep">Install</a>
 
@@ -241,15 +177,9 @@ https://diep.io/
 <p>
 
 
-### Author:```
-
-```
-### Version:```
-10.9.6
-```
-#### Desc:```
-(WORKING 2021) SUPER MOOMOO/KRUNKER MOD! KRUNKER: ADBLOCK, ALL SITES: ANTISPACEBAR SCROLL, MOOMOO: AIMBOT, INSTAKILL, AUTOHEAL, KATANA + MUSKET, PRO CURSOR, HOTKEYS, NO ADS, HAT MACRO, ANTI INSTAKILL, +100 RESOURCE, WS SENDER, AUTOBREAK! MOPE.IO AUTO DIVE, AUTO RUN, ADBLOCK! DIEP.IO: MULTIBOX, AFK MODE! ARRAS.IO: FOV HACKS!
-```
+### Author:``````
+### Version:```10.9.6```
+#### Desc:```(WORKING 2021) SUPER MOOMOO/KRUNKER MOD! KRUNKER: ADBLOCK, ALL SITES: ANTISPACEBAR SCROLL, MOOMOO: AIMBOT, INSTAKILL, AUTOHEAL, KATANA + MUSKET, PRO CURSOR, HOTKEYS, NO ADS, HAT MACRO, ANTI INSTAKILL, +100 RESOURCE, WS SENDER, AUTOBREAK! MOPE.IO AUTO DIVE, AUTO RUN, ADBLOCK! DIEP.IO: MULTIBOX, AFK MODE! ARRAS.IO: FOV HACKS!```
 
    <a href="./MOOMOO.IO%2FKRUNKER%2FMOPE%2FALLSITES%2F%26MORE%20SUPER%20MOD!%20INSTA%2C%20ALL%20UPGRADES%2C%20AUTOHEAL%2C%20PRO%20CURSOR%2C%20%2B100%20RES">Install</a>
 
@@ -262,15 +192,9 @@ https://diep.io/
 <p>
 
 
-### Author:```
-Stew#4055
-```
-### Version:```
-15.126
-```
-#### Desc:```
-Press ESC to open the menu
-```
+### Author:```Stew#4055```
+### Version:```15.126```
+#### Desc:```Press ESC to open the menu```
 
    <a href="./MooMoo.io%20Bots%20(browser)">Install</a>
 
@@ -283,15 +207,9 @@ Press ESC to open the menu
 <p>
 
 
-### Author:```
-https://greasyfork.org/ru/users/393261-ÑÐµÐ»ÐºÐ¸Ñ
-```
-### Version:```
-Full - 1
-```
-#### Desc:```
-Allows you to command more than one tank
-```
+### Author:```https://greasyfork.org/ru/users/393261-ÑÐµÐ»ÐºÐ¸Ñ```
+### Version:```Full - 1```
+#### Desc:```Allows you to command more than one tank```
 
    <a href="./Diep.io%20Clones%20(Eng)">Install</a>
 
@@ -304,15 +222,9 @@ http://*.io/* , https://*.io/*
 <p>
 
 
-### Author:```
-You
-```
-### Version:```
-0.46
-```
-#### Desc:```
-Check change log
-```
+### Author:```You```
+### Version:```0.46```
+#### Desc:```Check change log```
 
    <a href="./2020-2021%20Music%20player%20for%20io%20games%20%26%20Dsicrdo%20profile%20ripper%26%20youtube%20download%20free">Install</a>
 
@@ -325,15 +237,9 @@ Check change log
 <p>
 
 
-### Author:```
-You
-```
-### Version:```
-0.1
-```
-#### Desc:```
-Autoclose the zoom page when zoom in launched
-```
+### Author:```You```
+### Version:```0.1```
+#### Desc:```Autoclose the zoom page when zoom in launched```
 
    <a href="./smth%20random">Install</a>
 
@@ -346,15 +252,9 @@ Autoclose the zoom page when zoom in launched
 <p>
 
 
-### Author:```
-(M.V.P) Terminator#6108
-```
-### Version:```
-v0.50.1
-```
-#### Desc:```
-try to take over the world!
-```
+### Author:```(M.V.P) Terminator#6108```
+### Version:```v0.50.1```
+#### Desc:```try to take over the world!```
 
    <a href="./Ba7%20Beta">Install</a>
 
@@ -368,15 +268,9 @@ try to take over the world!
 <p>
 
 
-### Author:```
-You
-```
-### Version:```
-1
-```
-#### Desc:```
-press ctrl+shift+q to find scripts made for ther current site
-```
+### Author:```You```
+### Version:```1```
+#### Desc:```press ctrl+shift+q to find scripts made for ther current site```
 
    <a href="./Script%20finder">Install</a>
 
@@ -389,15 +283,9 @@ press ctrl+shift+q to find scripts made for ther current site
 <p>
 
 
-### Author:```
-LOL
-```
-### Version:```
-v3
-```
-#### Desc:```
--
-```
+### Author:```LOL```
+### Version:```v3```
+#### Desc:```-```
 
    <a href="./big%20ppro">Install</a>
 
@@ -411,15 +299,9 @@ v3
 <p>
 
 
-### Author:```
-You
-```
-### Version:```
-0.1
-```
-#### Desc:```
-try to take over the world!
-```
+### Author:```You```
+### Version:```0.1```
+#### Desc:```try to take over the world!```
 
    <a href="./Poser">Install</a>
 
@@ -433,15 +315,9 @@ try to take over the world!
 <p>
 
 
-### Author:```
-You
-```
-### Version:```
-0.1
-```
-#### Desc:```
-try to take over the world!
-```
+### Author:```You```
+### Version:```0.1```
+#### Desc:```try to take over the world!```
 
    <a href="./New%20Userscript">Install</a>
 
@@ -455,15 +331,9 @@ try to take over the world!
 <p>
 
 
-### Author:```
-You
-```
-### Version:```
-0.1
-```
-#### Desc:```
-try to take over the world!
-```
+### Author:```You```
+### Version:```0.1```
+#### Desc:```try to take over the world!```
 
    <a href="./Github%20Userscript">Install</a>
 
@@ -476,15 +346,9 @@ try to take over the world!
 <p>
 
 
-### Author:```
-CX
-```
-### Version:```
-0.1
-```
-#### Desc:```
-Tool for logging diep.io websocket packets and various other things.
-```
+### Author:```CX```
+### Version:```0.1```
+#### Desc:```Tool for logging diep.io websocket packets and various other things.```
 
    <a href="./Diep%20Packet%20Logger">Install</a>
 
@@ -497,15 +361,9 @@ Tool for logging diep.io websocket packets and various other things.
 <p>
 
 
-### Author:```
-CX
-```
-### Version:```
-0.3
-```
-#### Desc:```
-A combination of WireShark and Cheat Engine but for WebSockets and WebAssembly memory segments
-```
+### Author:```CX```
+### Version:```0.3```
+#### Desc:```A combination of WireShark and Cheat Engine but for WebSockets and WebAssembly memory segments```
 
    <a href="./Diep%20Packet%20%26%20Memory%20Analyzer">Install</a>
 
